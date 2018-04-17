@@ -9,6 +9,8 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 .ellipse {
 }
 .image {
@@ -19,6 +21,9 @@
 }
 .primary_button {
   color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
@@ -156,4 +161,6 @@
   text-align:left;
 }
 .flow_shape {
+}
+.icon {
 }
